@@ -1,5 +1,11 @@
-country: 
-  japan: 
-    - "kawasaki"
-    - "osaka"
-    - " tokyo"
+  japan:
+    pin_length: 7
+    kanagawa:
+      - "kcity1"
+      - "kcity2"
+      - "kcity3"
+    osaka:
+      - "ocity1"
+      - "ocity2"
+    tokyo:
+      - "tcity"  
